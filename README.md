@@ -5,7 +5,7 @@
 3.  Açılan panelden **`Console`** sekmesine tıklayın.
 4.  Aşağıdaki kodu kopyalayın, konsola yapıştırın ve **`Enter`** tuşuna basın.
 
-İşlemi otomatik olarak yapabilmek için Chrome uzantısını da kullanabilirsiniz.
+İşlemi **otomatik** olarak yapabilmek için Chrome uzantısını da kullanabilirsiniz.
 
 ```javascript
 var targetDoc = document.getElementById('IFRAME1') ? document.getElementById('IFRAME1').contentWindow.document : document;
