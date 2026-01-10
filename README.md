@@ -1,7 +1,7 @@
 # OBS Anket Atlayıcı
 
 1.  OBS sisteminden **Ders Değerlendirme Anketi** ekranını açın.
-2.  Klavyenizden **`F12`** tuşuna basın (Veya sayfaya **Sağ Tık** yapıp **İncele / Inspect** diyerek geliştirici araçlarını açın).
+2.  Klavyenizden **`F12`** tuşuna basın (Veya sayfaya **`Sağ Tık`** yapıp **`İncele / Inspect`** diyerek sekmeyi açın).
 3.  Açılan panelden **`Console`** sekmesine tıklayın.
 4.  Aşağıdaki kodu kopyalayın, konsola yapıştırın ve **`Enter`** tuşuna basın.
 
