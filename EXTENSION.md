@@ -1,6 +1,6 @@
 # Otomatik İşlem Yapan Chrome Eklentisi Kurulum Rehberi 
 
-### Dosyası İndirin
+### Dosyayı İndirin
 
 1.  Repository sayfanın sağ üst köşesindeki yeşil **"<> Code"** butonuna tıklayın.
 2.  Açılan menüden **"Download ZIP"** seçeneğine tıklayın.
