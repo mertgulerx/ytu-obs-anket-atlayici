@@ -7,6 +7,8 @@
 
 İşlemi **otomatik** olarak yapabilmek için Chrome uzantısını da kullanabilirsiniz.
 
+[Chrome Web Mağazası](https://chromewebstore.google.com/detail/obs-anket-atlay%C4%B1c%C4%B1/gdhniapogppicpblhnmdhmmpkecgmfmd)
+
 ```javascript
 var targetDoc = document.getElementById('IFRAME1') ? document.getElementById('IFRAME1').contentWindow.document : document;
 
