@@ -1,4 +1,4 @@
-# OBS Anket Atlayıcı
+# YTÜ OBS Anket Atlayıcı
 
 1.  OBS sisteminden **Ders Değerlendirme Anketi** ekranını açın.
 2.  Klavyenizden **`F12`** tuşuna basın (Veya sayfaya **`Sağ Tık`** yapıp **`İncele / Inspect`** diyerek sekmeyi açın).
